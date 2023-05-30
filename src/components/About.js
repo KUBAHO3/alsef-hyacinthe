@@ -13,7 +13,7 @@ function About() {
         <a href="#">
           <Image
               src={students}
-              alt="Picture of the logo"
+              alt="Picture of the student"
               width={500}
               height={500}
           />
@@ -29,7 +29,7 @@ function About() {
         <a href="#">
           <Image
               src={experts}
-              alt="Picture of the logo"
+              alt="Picture of the expert"
               width={500}
               height={500}
           />
@@ -45,7 +45,7 @@ function About() {
         <a href="#">
           <Image
               src={stakeholders}
-              alt="Picture of the logo"
+              alt="Picture of the stakeholder"
               width={500}
               height={500}
           />
