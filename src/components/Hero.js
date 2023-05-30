@@ -1,5 +1,6 @@
 import React from 'react';
-import microscope from './images/alsef1.png';
+import Image from 'next/image'
+import microscope from '../images/alsef1.png';
 
 
 function Hero() {
