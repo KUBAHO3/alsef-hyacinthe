@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import logo from './favicon.ico';
 import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
