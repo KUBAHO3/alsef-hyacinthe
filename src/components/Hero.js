@@ -44,8 +44,8 @@ function Hero() {
                     <Image
                         src={ines}
                         alt="Picture of the ines"
-                        width={100}
-                        height={40}
+                        width={160}
+                        height={70}
                     />                          
                 </a>
                 <a href="#" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">

@@ -33,7 +33,7 @@ function Contactus() {
               </svg>
               <div className="space-y-2">
                 <h6 className="text-slate-800 font-semibold">Call:</h6>
-                <p>+1 5589 55488 55</p>
+                <p>+917981821981</p>
               </div>
             </div>
           </div>
