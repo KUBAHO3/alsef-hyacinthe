@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+import Image from 'next/image'
+import logo from '../images/asef_logo.jpg';
 
 function Footer() {
   return (
@@ -7,7 +9,12 @@ function Footer() {
             <div className="md:flex md:justify-between">
                 <div className="mb-6 md:mb-0">
                     <a href="https://ALFSEForum.com" className="flex items-center">
-                        {/* <img src="https://ALFSEForum.com/docs/images/logo.svg" className="mr-3 h-8" alt="ALFSEForum Logo" /> */}
+                        <Image
+                            src={logo}
+                            alt="Picture of the logo"
+                            width={40}
+                            height={40}
+                        /> 
                         <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">ALFSE Forum</span>
                     </a>
                 </div>

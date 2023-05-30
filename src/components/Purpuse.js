@@ -40,8 +40,8 @@ function Purpuse() {
           <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">The Forum strengthens institutional partnerships between African and international universities, research institutions, and industry partners to promote innovation and knowledge exchange.</p>
         </div>
         <div className="flex flex-col p-2 justify-between leading-normal bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
-          <h6 className="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Promote Stem Education in Africa</h6>
-          <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">The Forum supports STEM education in Africa by providing educational resources and support to schools and universities, and organizing STEM programs and competitions for students.</p>
+          <h6 className="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Promote Life Science Education in Africa</h6>
+          <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">The Forum supports Life Science Education in Africa by providing educational resources and support to schools and universities, and organizing Life science programs and competitions for students.</p>
         </div>
       </div>
       <div className="w-3/12">
