@@ -23,10 +23,10 @@ function Footer() {
                         <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
                         <ul className="text-gray-600 dark:text-gray-400">
                             <li className="mb-4">
-                                <a href="https://ALFSEForum.com" className="hover:underline">ALFSEForum</a>
+                                <a href="#" className="hover:underline">ALFSEForum</a>
                             </li>
                             <li>
-                                <a href="https://tailwindcss.com/" className="hover:underline">Tailwind CSS</a>
+                                <a href="#" className="hover:underline">Grants</a>
                             </li>
                         </ul>
                     </div>
@@ -34,10 +34,10 @@ function Footer() {
                         <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow us</h2>
                         <ul className="text-gray-600 dark:text-gray-400">
                             <li className="mb-4">
-                                <a href="https://github.com/themesberg/ALFSEForum" className="hover:underline ">Github</a>
+                                <a href="#" className="hover:underline ">Github</a>
                             </li>
                             <li>
-                                <a href="https://discord.gg/4eeurUVvTy" className="hover:underline">Discord</a>
+                                <a href="#" className="hover:underline">Discord</a>
                             </li>
                         </ul>
                     </div>
