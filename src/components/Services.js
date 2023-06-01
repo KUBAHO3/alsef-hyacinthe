@@ -12,7 +12,7 @@ function Services() {
             </a>
             <p className="mb-3 font-normal text-gray-500 dark:text-gray-400">Life Science aspirants Initiative is a program aims to target life science aspirants in 10th grade to 12th grade of high school by raising the awareness on life sciences opportunities across the continent to ensure their right choice of path in their career.</p>
             <a href="#" className="inline-flex items-center text-blue-600 hover:underline">
-                Exprole more here
+                Explore more here
                 <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
             </a>
           </div>
@@ -23,7 +23,7 @@ function Services() {
             </a>
             <p className="mb-3 font-normal text-gray-500 dark:text-gray-400"> African Women in Life Science is a platform that highlights and promotes the work of African women scientists and provides support for their professional development and advancement</p>
             <a href="#" className="inline-flex items-center text-blue-600 hover:underline">
-                Exprole more here
+                Explore more here
                 <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
             </a>
           </div>
@@ -34,7 +34,7 @@ function Services() {
             </a>
             <p className="mb-3 font-normal text-gray-500 dark:text-gray-400">Students’ Professional development is the current ongoing program that aims to enhance the participation of life science students across Africa in the scientific program including scientific conferences, research training, volunteering activities, and related internship programs.</p>
             <a href="#" className="inline-flex items-center text-blue-600 hover:underline">
-                Exprole more here
+                Explore more here
                 <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
             </a>
           </div>
@@ -45,7 +45,7 @@ function Services() {
             </a>
             <p className="mb-3 font-normal text-gray-500 dark:text-gray-400">ABNE is a network of biosafety experts that seeks to enhance biosafety awareness, capacity, and expertise in Africa.</p>
             <a href="#" className="inline-flex items-center text-blue-600 hover:underline">
-                Exprole more here
+                Explore more here
                 <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
             </a>
           </div>
