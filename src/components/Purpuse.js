@@ -3,7 +3,7 @@ import React from 'react'
 function Purpuse() {
   return (
     <section className="max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
-    <span className="font-semibold text-gray-400 flex items-center justify-center pb-8 uppercase">Missions & Objectives</span>
+    <span className="font-semibold text-gray-400 flex items-center justify-center pb-8 uppercase" id="sec-title">Missions & Objectives</span>
     <div className="flex items-center justify-center w-full flex-wrap max-w-screen-2xl mx-auto my-4 content-center bg-[url('https://images.pexels.com/photos/3784567/pexels-photo-3784567.jpeg')] rounded-lg">
       <div className="w-full md:w-3/12">
         <h4 className="max-w-2xl my-4 text-2xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-5xl flex items-center justify-center dark:text-white"  id="main_title">

@@ -7,7 +7,7 @@ import stakeholders from '../images/stakeholders.jpg';
 function About() {
   return (
     <section className="py-8" id="about">
-    <span className="font-semibold text-gray-400 flex items-center justify-center pb-8 uppercase">Who we are!</span>
+    <span className="font-semibold text-gray-400 flex items-center justify-center pb-8 uppercase" id="sec-title">Who we are!</span>
     <div className="flex items-center justify-center w-full flex-wrap max-w-screen-2xl mx-auto content-center gap-x-8 gap-y-4">
       <div className="max-w-sm gap-x-2 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <a href="#">
