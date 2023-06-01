@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import students from '../images/students.jpg';
-import experts from '../images/expert.png';
+import experts from '../images/experts.jpg';
 import stakeholders from '../images/stakeholders.jpg';
 
 function About() {
