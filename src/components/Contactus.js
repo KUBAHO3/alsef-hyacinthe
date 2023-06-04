@@ -5,7 +5,7 @@ function Contactus() {
     <section className="py-8" id="contact">
         <span className="font-semibold text-gray-400 flex items-center justify-center pb-8 uppercase" id="sec-title">Contact us</span>
         <div className="px-4 w-full max-w-screen-xl mx-auto content-center">
-          <iframe style={{border:0, width: "100%", height: '270px' }} src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+          <iframe style={{border:0, width: "100%", height: '270px' }} src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63814.89773229611!2d29.575699384228518!3d-1.510932574636034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dc5a43629d20ad%3A0xcedbfcad56509e1b!2sRuhengeri%2C%20Rwanda!5e0!3m2!1sen!2sin!4v1685875345673!5m2!1sen!2sin" frameborder="0" allowfullscreen></iframe>
         </div>
         <div className="flex flex-wrap items-center justify-center width max-w-screen-xl mx-auto px-3 my-4 content-center ">
           <div className="w-full md:w-4/12 pr-4">
