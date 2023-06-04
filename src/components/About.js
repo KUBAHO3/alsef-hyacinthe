@@ -9,7 +9,7 @@ function About() {
     <section className="py-8" id="about">
     <span className="font-semibold text-gray-400 flex items-center justify-center pb-8 uppercase" id="sec-title">Who we are!</span>
     <div className="flex items-center justify-center w-full flex-wrap max-w-screen-2xl mx-auto content-center gap-x-8 gap-y-4">
-      <div className="max-w-sm gap-x-2 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+      <div className="animate-fade-right animate-duration-[2000ms] max-w-sm gap-x-2 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <a href="#">
           <Image
               src={students}
@@ -25,7 +25,7 @@ function About() {
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">The Forum welcomes young students from Africa and around the world to participate in life science research and innovation on the continent.</p>
         </div>
       </div>
-      <div className="max-w-sm gap-x-2 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+      <div className="animate-fade-down animate-duration-[2000ms] max-w-sm gap-x-2 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <a href="#">
           <Image
               src={experts}
@@ -41,7 +41,7 @@ function About() {
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">The Forum provides a platform for life science experts to share their knowledge and connect with other professionals in the field.</p>
         </div>
       </div>
-      <div className="max-w-sm gap-x-2 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+      <div className="animate-fade-left animate-duration-[2000ms] max-w-sm gap-x-2 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <a href="#">
           <Image
               src={stakeholders}
