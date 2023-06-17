@@ -16,7 +16,7 @@ function Hero() {
                    African Life Science Enhancement Forum</h1>
                 <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">The African Life Science Enhancement Forum aims to enhance life science research and innovation in Africa by creating a community of life science aspirants, current students, experts, and stakeholders in the field across Africa. Together, we can improve the quality and sustainability of life for all Africans.</p>
                 
-                <a href="https://t.me/alsef_association" className="animate-jump inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-gray-900 border border-gray-300 rounded-lg hover:bg-pink-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+                <a href="https://forms.gle/xfM8eaXyKjmkX3Mv6" className="animate-jump inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-gray-900 border border-gray-300 rounded-lg hover:bg-pink-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
                     Join The Community
                 </a> 
             </div>
@@ -32,7 +32,7 @@ function Hero() {
         <div className="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
             <span className="font-semibold text-gray-400 uppercase" id="sec-title">Partner with</span>
             <div className="animate-fade animate-duration-[2000ms] flex flex-wrap justify-center items-center mt-8 text-gray-500 sm:justify-between">
-                <a href="#" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="https://asm.org/" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <Image
                         src={asm}
                         alt="Picture of the asm"
@@ -40,7 +40,7 @@ function Hero() {
                         height={40}
                     />                    
                 </a>
-                <a href="#" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="https://www.ines.ac.rw/" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <Image
                         src={ines}
                         alt="Picture of the ines"
@@ -48,14 +48,14 @@ function Hero() {
                         height={70}
                     />                          
                 </a>
-                <a href="#" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                {/* <a href="#" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <Image
                         src={nat}
                         alt="Picture of the nat"
                         width={100}
                         height={40}
                     />                                                      
-                </a>         
+                </a>          */}
             </div>
         </div> 
       </section>
