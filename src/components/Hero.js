@@ -3,7 +3,7 @@ import Image from 'next/image'
 import microscope from '../images/microscope_africa.png';
 import ines from '../images/ines_logo.png';
 import asm from '../images/asm_logo.png';
-import nat from '../images/nat_logo.png';
+// import nat from '../images/nat_logo.png';
 
 
 function Hero() {
